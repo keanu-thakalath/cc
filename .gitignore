@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+etc/
+Include/
+Lib/
+lightning_logs/
+Scripts/
+share/
+website/
+xgboost/
+CSR Data.csv
+csr.avro
+nn-training.ipynb
+pyvenv.cfg
